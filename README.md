@@ -25,8 +25,7 @@ Rewards and Penalties in doom defend config. :
 -1 penalty for each step taken
 
 
----> !cd github & git clone https://github.com/mwydmuch/ViZDoom
- TO DOWNLOAD THE ENVIRONMENT CONFIGURATION FILES
+
 
 Train the agent using the provided training script.
 Evaluate the trained agent's performance in the game environment.
